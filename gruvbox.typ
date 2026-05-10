@@ -1,0 +1,21 @@
+#let colors = (
+  red: rgb("#cc241d"),
+  red2: rgb("#fb4934"),
+  green: rgb("#98971a"),
+  green2: rgb("#b8bb26"),
+  yellow: rgb("#d79921"),
+  yellow2: rgb("#fabd2f"),
+  blue: rgb("#458588"),
+  blue2: rgb("#83a598"),
+  purple: rgb("#b16286"),
+  purple2: rgb("#d3869b"),
+  acqua: rgb("#689d6a"),
+  acqua2: rgb("#8ec07c"),
+  orange: rgb("#d65d0e"),
+  orange2: rgb("#fe8019"),
+
+  background: rgb("#fbf1c7"),
+  background2: rgb("#a89984"),
+  foreground: rgb("#282828"),
+  foreground2: rgb("#3c3836"),
+)
